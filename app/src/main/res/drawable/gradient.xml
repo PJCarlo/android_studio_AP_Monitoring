@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Gradient for the vector upper bar -->
+    <gradient
+        android:startColor="@color/start_top_bar"
+        android:endColor="@color/end__top_bar"
+        android:angle="0"/>
+
+</shape>
